@@ -1,7 +1,7 @@
 # Intellij Dracule theme for CodeBlocks
 This is a custom dark theme for CodebLOCKS
 
-![screenshot](http://url/to/img.png)
+![screenshot](https://github.com/ermanergoz/codeblocksTheme/blob/master/Capture.JPG?raw=true)
 
 Instructions:
 
