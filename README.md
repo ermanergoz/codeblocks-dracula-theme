@@ -7,7 +7,7 @@ Instructions:
 
 - CodeBlocks should not be running
 - Go to the CodeBlocks installation directory and run " cb_share_config.exe "
-- On the left side of the panel, click "..." and choose the file which you download from here
+- On the left side of the panel, click "..." and choose the file which you downloaded from here
 - On the right side of the panel choose your "default.conf" (It should be in "C:\Users\\*username*\AppData\Roaming\CodeBlocks")
 - Click "Transfer" button
 - Click "Save" button
