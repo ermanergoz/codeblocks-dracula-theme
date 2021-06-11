@@ -7,7 +7,7 @@ Instructions:
 
 - Download the conf file or clone this repository using 
 	```sh
-	git clone https://github.com/ermanergoz/USurf.git
+	git clone https://github.com/ermanergoz/codeblocks-dracula-theme.git
 	```
 - Close CodeBlocks if it is running
 - Go to the CodeBlocks installation directory and run " cb_share_config.exe "
