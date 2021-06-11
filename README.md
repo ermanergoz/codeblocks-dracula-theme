@@ -1,4 +1,4 @@
-# Intellij Darcula theme for CodeBlocks
+# Intellij Dracula theme for CodeBlocks
 This is a custom dark theme for CodeBlocks
 
 ![screenshot](https://github.com/ermanergoz/codeblocksTheme/blob/master/Capture.JPG?raw=true)
