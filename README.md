@@ -5,7 +5,10 @@ This is a custom dark theme for CodeBlocks
 
 Instructions:
 
-- CodeBlocks should not be running
+- Download the conf file or clone this repository using ```sh
+	git clone https://github.com/ermanergoz/USurf.git
+	```
+- Close CodeBlocks if it is running
 - Go to the CodeBlocks installation directory and run " cb_share_config.exe "
 - On the left side of the panel, click "..." and choose the file which you downloaded from here
 - On the right side of the panel choose your "default.conf" (It should be in "C:\Users\\*username*\AppData\Roaming\CodeBlocks")
