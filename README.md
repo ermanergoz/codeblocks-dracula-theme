@@ -11,4 +11,4 @@ Instructions:
 - On the right side of the panel choose your "default.conf" (It should be in "C:\Users\\*username*\AppData\Roaming\CodeBlocks")
 - Click "Transfer" button
 - Click "Save" button
-- Run CodeBlocks and navigate to "Settings > Syntax highlighting" and choose the theme
+- Run CodeBlocks and navigate to "Settings > Editor > Syntax highlighting" and choose the theme
