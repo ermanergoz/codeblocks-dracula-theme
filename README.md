@@ -5,7 +5,8 @@ This is a custom dark theme for CodeBlocks
 
 Instructions:
 
-- Download the conf file or clone this repository using ```sh
+- Download the conf file or clone this repository using 
+	```sh
 	git clone https://github.com/ermanergoz/USurf.git
 	```
 - Close CodeBlocks if it is running
